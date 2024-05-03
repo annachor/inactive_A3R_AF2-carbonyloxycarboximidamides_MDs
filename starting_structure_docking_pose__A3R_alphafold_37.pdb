@@ -1,9 +1,9 @@
-REMARK   4      COMPLIES WITH FORMAT V. 3.0, 1-DEC-2006
-REMARK 888
-REMARK 888 WRITTEN BY MAESTRO (A PRODUCT OF SCHRODINGER, LLC)
-TITLE     GPCRdb_af_A3model_prepro
-CRYST1   70.095   79.307   96.630  90.00  90.00  90.00 P 1           1
-MODEL        1
+REMARK   4      COMPLIES WITH FORMAT V. 3.0, 1-DEC-2006                         
+REMARK 888                                                                      
+REMARK 888 WRITTEN BY MAESTRO (A PRODUCT OF SCHRODINGER, LLC)                   
+TITLE     GPCRdb_af_A3model_prepro                                              
+CRYST1   70.095   79.307   96.630  90.00  90.00  90.00 P 1           1          
+MODEL        1                                                                  
 ATOM      1  CH3 ACE A   8      19.074  40.378  65.698  1.00  0.00           C  
 ATOM      2  C   ACE A   8      18.668  41.478  64.726  1.00  0.00           C  
 ATOM      3  O   ACE A   8      19.128  41.497  63.586  1.00  0.00           O  
@@ -4905,116 +4905,116 @@ ATOM   4898  HB2 HIS A 304      31.522  76.688  42.589  1.00  0.00           H
 ATOM   4899  HD2 HIS A 304      31.569  74.285  44.053  1.00  0.00           H  
 ATOM   4900  HD1 HIS A 304      27.969  76.486  44.081  1.00  0.00           H  
 ATOM   4901  HE1 HIS A 304      27.686  74.475  45.587  1.00  0.00           H  
-ATOM   4902  N   NMA A 304A     29.166  79.281  40.802  1.00  0.00           N  
-ATOM   4903  CA  NMA A 304A     29.360  80.604  40.230  1.00  0.00           C  
-ATOM   4904  H   NMA A 304A     28.273  79.087  41.231  1.00  0.00           H  
-ATOM   4905  HA1 NMA A 304A     28.468  81.212  40.389  1.00  0.00           H  
-ATOM   4906  HA2 NMA A 304A     30.205  81.110  40.698  1.00  0.00           H  
-ATOM   4907  HA3 NMA A 304A     29.542  80.541  39.156  1.00  0.00           H  
-TER    4908      NMA A 304A
-HETATM 4909  C1  UNK X 745      23.862  34.412  45.178  0.00  0.00           C  
-HETATM 4910  N1  UNK X 745      23.529  33.281  45.885  0.00  0.00           N  
-HETATM 4911  N2  UNK X 745      23.468  35.614  45.441  0.00  0.00           N  
-HETATM 4912  O1  UNK X 745      22.669  35.570  46.584  0.00  0.00           O  
-HETATM 4913  C2  UNK X 745      21.863  36.618  46.745  0.00  0.00           C  
-HETATM 4914  O2  UNK X 745      21.908  37.687  46.124  0.00  0.00           O  
-HETATM 4915  C3  UNK X 745      20.918  36.316  47.831  0.00  0.00           C  
-HETATM 4916  C4  UNK X 745      20.774  35.075  48.562  0.00  0.00           C  
-HETATM 4917  N3  UNK X 745      20.021  35.351  49.631  0.00  0.00           N  
-HETATM 4918  O3  UNK X 745      19.487  36.640  49.473  0.00  0.00           O  
-HETATM 4919  C5  UNK X 745      20.034  37.214  48.375  0.00  0.00           C  
-HETATM 4920  C6  UNK X 745      19.583  38.618  48.065  0.00  0.00           C  
-HETATM 4921  C7  UNK X 745      23.071  31.340  48.866  0.00  0.00           C  
-HETATM 4922  C8  UNK X 745      21.899  31.300  48.102  0.00  0.00           C  
-HETATM 4923  C9  UNK X 745      21.135  32.457  47.844  0.00  0.00           C  
-HETATM 4924  C10 UNK X 745      21.450  33.711  48.491  0.00  0.00           C  
-HETATM 4925  C11 UNK X 745      22.599  33.649  49.281  0.00  0.00           C  
-HETATM 4926  C12 UNK X 745      23.453  32.554  49.417  0.00  0.00           C  
-HETATM 4927  Cl1 UNK X 745      22.930  34.953  50.234  0.00  0.00          Cl  
-HETATM 4928  C13 UNK X 745      26.334  33.843  41.841  0.00  0.00           C  
-HETATM 4929  C14 UNK X 745      25.162  34.584  41.671  0.00  0.00           C  
-HETATM 4930  C15 UNK X 745      24.340  34.753  42.777  0.00  0.00           C  
-HETATM 4931  C16 UNK X 745      24.697  34.152  43.989  0.00  0.00           C  
-HETATM 4932  N4  UNK X 745      25.778  33.353  44.140  0.00  0.00           N  
-HETATM 4933  C17 UNK X 745      26.585  33.213  43.070  0.00  0.00           C  
-HETATM 4934  Cl2 UNK X 745      19.943  32.118  46.643  0.00  0.00          Cl  
-HETATM 4935  H1  UNK X 745      23.815  32.329  45.661  0.00  0.00           H  
-HETATM 4936  H2  UNK X 745      22.886  33.300  46.651  0.00  0.00           H  
-HETATM 4937  H3  UNK X 745      19.099  39.072  48.929  0.00  0.00           H  
-HETATM 4938  H4  UNK X 745      20.410  39.266  47.778  0.00  0.00           H  
-HETATM 4939  H5  UNK X 745      18.857  38.627  47.252  0.00  0.00           H  
-HETATM 4940  H6  UNK X 745      23.687  30.467  49.000  0.00  0.00           H  
-HETATM 4941  H7  UNK X 745      21.631  30.372  47.628  0.00  0.00           H  
-HETATM 4942  H8  UNK X 745      24.357  32.637  50.008  0.00  0.00           H  
-HETATM 4943  H9  UNK X 745      27.044  33.826  41.042  0.00  0.00           H  
-HETATM 4944  H10 UNK X 745      24.916  35.081  40.749  0.00  0.00           H  
-HETATM 4945  H11 UNK X 745      23.484  35.392  42.703  0.00  0.00           H  
-HETATM 4946  H12 UNK X 745      27.481  32.634  43.225  0.00  0.00           H  
-CONECT    1    4    5    6
-CONECT    4    1
-CONECT    5    1
-CONECT    6    1
-CONECT 4903 4905 4906 4907
-CONECT 4905 4903
-CONECT 4906 4903
-CONECT 4907 4903
-CONECT 4909 4910 4911 4931
-CONECT 4909 4911
-CONECT 4910 4909 4935 4936
-CONECT 4911 4909 4912
-CONECT 4911 4909
-CONECT 4912 4911 4913
-CONECT 4913 4912 4914 4915
-CONECT 4913 4914
-CONECT 4914 4913
-CONECT 4914 4913
-CONECT 4915 4913 4916 4919
-CONECT 4915 4919
-CONECT 4916 4915 4917 4924
-CONECT 4916 4917
-CONECT 4917 4916 4918
-CONECT 4917 4916
-CONECT 4918 4917 4919
-CONECT 4919 4915 4918 4920
-CONECT 4919 4915
-CONECT 4920 4919 4937 4938 4939
-CONECT 4921 4922 4926 4940
-CONECT 4921 4926
-CONECT 4922 4921 4923 4941
-CONECT 4922 4923
-CONECT 4923 4922 4924 4934
-CONECT 4923 4922
-CONECT 4924 4916 4923 4925
-CONECT 4924 4925
-CONECT 4925 4924 4926 4927
-CONECT 4925 4924
-CONECT 4926 4921 4925 4942
-CONECT 4926 4921
-CONECT 4927 4925
-CONECT 4928 4929 4933 4943
-CONECT 4928 4933
-CONECT 4929 4928 4930 4944
-CONECT 4929 4930
-CONECT 4930 4929 4931 4945
-CONECT 4930 4929
-CONECT 4931 4909 4930 4932
-CONECT 4931 4932
-CONECT 4932 4931 4933
-CONECT 4932 4931
-CONECT 4933 4928 4932 4946
-CONECT 4933 4928
-CONECT 4934 4923
-CONECT 4935 4910
-CONECT 4936 4910
-CONECT 4937 4920
-CONECT 4938 4920
-CONECT 4939 4920
-CONECT 4940 4921
-CONECT 4941 4922
-CONECT 4942 4926
-CONECT 4943 4928
-CONECT 4944 4929
-CONECT 4945 4930
-CONECT 4946 4933
-ENDMDL
-END   
+ATOM   4902  N   NMA A 305A     29.166  79.281  40.802  1.00  0.00           N  
+ATOM   4903  CA  NMA A 305A     29.360  80.604  40.230  1.00  0.00           C  
+ATOM   4904  H   NMA A 305A     28.273  79.087  41.231  1.00  0.00           H  
+ATOM   4905  HA1 NMA A 305A     28.468  81.212  40.389  1.00  0.00           H  
+ATOM   4906  HA2 NMA A 305A     30.205  81.110  40.698  1.00  0.00           H  
+ATOM   4907  HA3 NMA A 305A     29.542  80.541  39.156  1.00  0.00           H  
+TER    4908      NMA A 305A                                                     
+HETATM 4909  C1  UNK X 306      23.862  34.412  45.178  0.00  0.00           C  
+HETATM 4910  N1  UNK X 306      23.529  33.281  45.885  0.00  0.00           N  
+HETATM 4911  N2  UNK X 306      23.468  35.614  45.441  0.00  0.00           N  
+HETATM 4912  O1  UNK X 306      22.669  35.570  46.584  0.00  0.00           O  
+HETATM 4913  C2  UNK X 306      21.863  36.618  46.745  0.00  0.00           C  
+HETATM 4914  O2  UNK X 306      21.908  37.687  46.124  0.00  0.00           O  
+HETATM 4915  C3  UNK X 306      20.918  36.316  47.831  0.00  0.00           C  
+HETATM 4916  C4  UNK X 306      20.774  35.075  48.562  0.00  0.00           C  
+HETATM 4917  N3  UNK X 306      20.021  35.351  49.631  0.00  0.00           N  
+HETATM 4918  O3  UNK X 306      19.487  36.640  49.473  0.00  0.00           O  
+HETATM 4919  C5  UNK X 306      20.034  37.214  48.375  0.00  0.00           C  
+HETATM 4920  C6  UNK X 306      19.583  38.618  48.065  0.00  0.00           C  
+HETATM 4921  C7  UNK X 306      23.071  31.340  48.866  0.00  0.00           C  
+HETATM 4922  C8  UNK X 306      21.899  31.300  48.102  0.00  0.00           C  
+HETATM 4923  C9  UNK X 306      21.135  32.457  47.844  0.00  0.00           C  
+HETATM 4924  C10 UNK X 306      21.450  33.711  48.491  0.00  0.00           C  
+HETATM 4925  C11 UNK X 306      22.599  33.649  49.281  0.00  0.00           C  
+HETATM 4926  C12 UNK X 306      23.453  32.554  49.417  0.00  0.00           C  
+HETATM 4927  Cl1 UNK X 306      22.930  34.953  50.234  0.00  0.00          Cl  
+HETATM 4928  C13 UNK X 306      26.334  33.843  41.841  0.00  0.00           C  
+HETATM 4929  C14 UNK X 306      25.162  34.584  41.671  0.00  0.00           C  
+HETATM 4930  C15 UNK X 306      24.340  34.753  42.777  0.00  0.00           C  
+HETATM 4931  C16 UNK X 306      24.697  34.152  43.989  0.00  0.00           C  
+HETATM 4932  N4  UNK X 306      25.778  33.353  44.140  0.00  0.00           N  
+HETATM 4933  C17 UNK X 306      26.585  33.213  43.070  0.00  0.00           C  
+HETATM 4934  Cl2 UNK X 306      19.943  32.118  46.643  0.00  0.00          Cl  
+HETATM 4935  H1  UNK X 306      23.815  32.329  45.661  0.00  0.00           H  
+HETATM 4936  H2  UNK X 306      22.886  33.300  46.651  0.00  0.00           H  
+HETATM 4937  H3  UNK X 306      19.099  39.072  48.929  0.00  0.00           H  
+HETATM 4938  H4  UNK X 306      20.410  39.266  47.778  0.00  0.00           H  
+HETATM 4939  H5  UNK X 306      18.857  38.627  47.252  0.00  0.00           H  
+HETATM 4940  H6  UNK X 306      23.687  30.467  49.000  0.00  0.00           H  
+HETATM 4941  H7  UNK X 306      21.631  30.372  47.628  0.00  0.00           H  
+HETATM 4942  H8  UNK X 306      24.357  32.637  50.008  0.00  0.00           H  
+HETATM 4943  H9  UNK X 306      27.044  33.826  41.042  0.00  0.00           H  
+HETATM 4944  H10 UNK X 306      24.916  35.081  40.749  0.00  0.00           H  
+HETATM 4945  H11 UNK X 306      23.484  35.392  42.703  0.00  0.00           H  
+HETATM 4946  H12 UNK X 306      27.481  32.634  43.225  0.00  0.00           H  
+CONECT    1    4    5    6                                                      
+CONECT    4    1                                                                
+CONECT    5    1                                                                
+CONECT    6    1                                                                
+CONECT 4903 4905 4906 4907                                                      
+CONECT 4905 4903                                                                
+CONECT 4906 4903                                                                
+CONECT 4907 4903                                                                
+CONECT 4909 4910 4911 4931                                                      
+CONECT 4909 4911                                                                
+CONECT 4910 4909 4935 4936                                                      
+CONECT 4911 4909 4912                                                           
+CONECT 4911 4909                                                                
+CONECT 4912 4911 4913                                                           
+CONECT 4913 4912 4914 4915                                                      
+CONECT 4913 4914                                                                
+CONECT 4914 4913                                                                
+CONECT 4914 4913                                                                
+CONECT 4915 4913 4916 4919                                                      
+CONECT 4915 4919                                                                
+CONECT 4916 4915 4917 4924                                                      
+CONECT 4916 4917                                                                
+CONECT 4917 4916 4918                                                           
+CONECT 4917 4916                                                                
+CONECT 4918 4917 4919                                                           
+CONECT 4919 4915 4918 4920                                                      
+CONECT 4919 4915                                                                
+CONECT 4920 4919 4937 4938 4939                                                 
+CONECT 4921 4922 4926 4940                                                      
+CONECT 4921 4926                                                                
+CONECT 4922 4921 4923 4941                                                      
+CONECT 4922 4923                                                                
+CONECT 4923 4922 4924 4934                                                      
+CONECT 4923 4922                                                                
+CONECT 4924 4916 4923 4925                                                      
+CONECT 4924 4925                                                                
+CONECT 4925 4924 4926 4927                                                      
+CONECT 4925 4924                                                                
+CONECT 4926 4921 4925 4942                                                      
+CONECT 4926 4921                                                                
+CONECT 4927 4925                                                                
+CONECT 4928 4929 4933 4943                                                      
+CONECT 4928 4933                                                                
+CONECT 4929 4928 4930 4944                                                      
+CONECT 4929 4930                                                                
+CONECT 4930 4929 4931 4945                                                      
+CONECT 4930 4929                                                                
+CONECT 4931 4909 4930 4932                                                      
+CONECT 4931 4932                                                                
+CONECT 4932 4931 4933                                                           
+CONECT 4932 4931                                                                
+CONECT 4933 4928 4932 4946                                                      
+CONECT 4933 4928                                                                
+CONECT 4934 4923                                                                
+CONECT 4935 4910                                                                
+CONECT 4936 4910                                                                
+CONECT 4937 4920                                                                
+CONECT 4938 4920                                                                
+CONECT 4939 4920                                                                
+CONECT 4940 4921                                                                
+CONECT 4941 4922                                                                
+CONECT 4942 4926                                                                
+CONECT 4943 4928                                                                
+CONECT 4944 4929                                                                
+CONECT 4945 4930                                                                
+CONECT 4946 4933                                                                
+ENDMDL                                                                          
+END                                                                             
