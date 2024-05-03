@@ -1,1 +1,1 @@
-This link is provided to access starting structures (docking poses) and output frames from the MD simulations of the complexes between our revised model of the inactive hA3R generated using the multi-state AF2 method and ligands K18, 37, 39, 56, 57, 60
+This link is provided to access starting structures (docking poses) and output frames from the MD simulations of the complexes between our revised model of the inactive hA3R generated using the multi-state AF2 method and ligands K18, 37, 38, 39, 56, 57, 60
